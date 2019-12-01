@@ -4,5 +4,5 @@ This is a readme document for the data science practice folder. I will release t
 
 # Content
 
-[Boston Crime](https://github.com/stliang0127/Data-Science-Python-Practice/blob/master/Boston%20Crime.ipynb)
+[Boston Crime](https://github.com/stliang0127/Data-Science-Python-Practice/blob/master/Boston%20Crime.ipynb)  
 [New York AirBnB](https://github.com/stliang0127/Data-Science-Python-Practice/blob/master/NY%20Airbnb.ipynb)
