@@ -5,11 +5,11 @@ After taking data science courses from Coursera, Udemy, and Kaggle, I started to
 # Content
 
 [Boston Crime](https://github.com/stliang0127/Data-Science-Python-Practice/blob/master/Boston%20Crime.ipynb)  
-The dataset came from Kaggle. Originally provided by Boston Police Department (BPD). Records collected from June 14, 2015 to September 3, 2018.
+The dataset came from Kaggle. Originally provided by Boston Police Department (BPD). Records collected from June 14, 2015 to September 3, 2018.  
 Up-to-date can be found at https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
 
 [New York AirBnB](https://github.com/stliang0127/Data-Science-Python-Practice/blob/master/NY%20Airbnb.ipynb)  
-The dataset came from Kaggle. This dataset describes the listing activity and metrics in NYC, NY for 2019.
+The dataset came from Kaggle. This dataset describes the listing activity and metrics in NYC, NY for 2019.  
 The original source can be found at http://insideairbnb.com/
 
 [Boston Housing](https://github.com/stliang0127/Data-Science-Python-Practice/blob/master/Boston%20Housing.ipynb)  
