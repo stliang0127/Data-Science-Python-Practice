@@ -16,4 +16,4 @@ The original source can be found at http://insideairbnb.com/
 The dataset originally came from UCI Machine Learning Repository. Data was collected in 1978
 
 ### [Loan Prediction](https://github.com/stliang0127/Data-Science-Python-Practice/blob/master/Loan%20Prediction.ipynb)  
-The dataset came from Kaggle.
+The dataset came from Analytics-vidya hackathon. It is for classification practice.
